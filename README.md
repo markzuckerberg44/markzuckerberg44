@@ -10,6 +10,7 @@ I am an undergraduate Software Engineering student at Universidad Catolica del N
 - I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help while i can !<br>
 - Outside tech, ♟️ I like to play chess, 📺 watch anime, 📖 read comics and 🏔️ outdoor sports (snowboarding, mtb, mountaineering).
+- I also create College/Student life related content on social media, make sure to check it out ! (all my socials down below) ⬇️
 - 📫 Contact me at: <a href="julian.honores@alumnos.ucn.cl">julian.honores@alumnos.ucn.cl</a>
 
 ## My Skills Include
@@ -33,7 +34,9 @@ I am an undergraduate Software Engineering student at Universidad Catolica del N
 
 <h4> Other Tools and Technologies </h4>
 <span>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 
 </span>
 
