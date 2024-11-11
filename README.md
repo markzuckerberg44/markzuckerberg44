@@ -7,6 +7,7 @@ I am an undergraduate Software Engineering student at Universidad Catolica del N
 * **I am interested in Backend developtment, and UI-UX**
 - 🧠 I’m currently learning ...
   - C++
+  - Next.js
 - I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help while i can !<br>
 - Outside tech, ♟️ I like to play chess, 📺 watch anime, 📖 read comics and 🏔️ outdoor sports (snowboarding, mtb, mountaineering).
