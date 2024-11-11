@@ -8,7 +8,7 @@ I am an undergraduate Software Engineering student at Universidad Catolica del N
 - 🧠 I’m currently learning ...
   - C++
 - I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
+- ✔ Ask me about anything, I am happy to help while i can !<br>
 - Outside tech, ♟️ I like to play chess, 📺 watch anime, 📖 read comics and 🏔️ outdoor sports (snowboarding, mtb, mountaineering).
 - 📫 Contact me at: <a href="julian.honores@alumnos.ucn.cl">julian.honores@alumnos.ucn.cl</a>
 
@@ -51,4 +51,8 @@ I am an undergraduate Software Engineering student at Universidad Catolica del N
   <img src = "https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
 
+<h2 style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=markzuckerberg44&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/markzuckerberg44)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=markzuckerberg44&theme=material-palenight)](https://github.com/markzuckerberg44)
+</div>
