@@ -6,8 +6,7 @@
 I am an undergraduate Software Engineering student at Universidad Catolica del Norte. Java and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Backend developtment, and UI-UX**
 - 🧠 I’m currently learning ...
-  - C++
-  - Next.js
+  - Postgre SQL
 - I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help while i can !<br>
 - Outside tech, ♟️ I like to play chess, 📺 watch anime, 📖 read comics and 🏔️ outdoor sports (snowboarding, mtb, mountaineering).
@@ -21,6 +20,7 @@ I am an undergraduate Software Engineering student at Universidad Catolica del N
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  
 </span>
 
 
