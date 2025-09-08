@@ -3,14 +3,12 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF2dHllN3RtczF0dDF2NjU4cWUxZTlyeWs2YWl6cHdyY2txZDFzZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xgdfNaM8kr6Lu/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Software Engineering student at Universidad Catolica del Norte. Java and Python are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Backend developtment, and UI-UX**
-- 🧠 I’m currently learning ...
-  - Postgre SQL
+I am an undergraduate Software Engineering student at Universidad Catolica del Norte. Java and Python are the programming languages I am good at.
+* **I am interested in Backend development and software arquitecture**
 - I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help while i can !<br>
-- Outside tech, ♟️ I like to play chess, 📺 watch anime, 📖 read comics and 🏔️ outdoor sports (snowboarding, mtb, mountaineering).
-- I also create College/Student life related content on social media, make sure to check it out ! (all my socials down below) ⬇️
+- ✔ Ask me about anything, I am happy to help while i can <br>
+- Outside tech, I like to party, watch anime, play videogames and do outdoor sports (snowboarding, mtb, mountaineering).
+- I also create College/Student life related content on social media, make sure to check it out. (all my socials down below) ⬇️
 - 📫 Contact me at: <a href="julian.honores@alumnos.ucn.cl">julian.honores@alumnos.ucn.cl</a>
 
 ## My Skills Include
